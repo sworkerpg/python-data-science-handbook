@@ -48,5 +48,9 @@ IPython提供了用\*符号来实现通配符匹配的方法。
 | Ctrl + c | 中断当前的Python命令 |
 | Ctrl + d | 退出IPython会话 |
 
+# IPython魔法命令
+
+
+
 
 
