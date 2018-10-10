@@ -84,5 +84,5 @@ IPython魔法命令都是以%符号作为前缀。行魔法以单个%字符作�
 
 %qdebug是ipython最方便的调试界面
 
-
+[https://github.com/gotcha/ipdb](https://github.com/gotcha/ipdb)
 
