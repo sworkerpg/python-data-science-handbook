@@ -86,3 +86,5 @@ IPython魔法命令都是以%符号作为前缀。行魔法以单个%字符作�
 
 [https://github.com/gotcha/ipdb](ipdb的在线文档)
 
+测试文档
+
